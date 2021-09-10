@@ -114,7 +114,7 @@ function Aiming.IsPartVisible(Part, PartDescendant)
     -- // Return
     return false
 end
-
+'
 -- // Ignore player
 function Aiming.IgnorePlayer(Player)
     -- // Vars
