@@ -44,7 +44,7 @@ getgenv().Aiming = {
     HitChance = 9999,
     Selected = LocalPlayer,
     SelectedPart = nil,
-    TargetPart = {"Head", "HumanoidRootPart"},
+    TargetPart = {"LowerTorso", "UpperTorso"},
     Ignored = {
         Teams = {
             {
